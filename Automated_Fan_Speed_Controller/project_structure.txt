@@ -1,9 +1,0 @@
-Project Structure
-
-Automated-Fan-Speed-Controller/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-├── Final_report.pdf
-└── images/

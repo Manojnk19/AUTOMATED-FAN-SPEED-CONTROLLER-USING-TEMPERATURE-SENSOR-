@@ -1,3 +1,0 @@
-Arduino IDE
-DHT Sensor Library
-LiquidCrystal_I2C Library
